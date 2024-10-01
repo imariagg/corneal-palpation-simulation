@@ -1,0 +1,10 @@
+# Ignore Unity's Library folder and other temporary files
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/MemoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
