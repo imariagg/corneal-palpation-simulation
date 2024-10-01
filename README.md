@@ -20,7 +20,7 @@ The project is also **MQTT** compatible for communication between applications, 
 
 - **ANSYS Simulation**: Below is a video of the cornea simulation performed in ANSYS, which demonstrates how the physics and deformation behavior of the cornea were modeled.
 
-  https://github.com/user-attachments/assets/f0ae1df9-07e7-4e1a-9161-a6e141a0fcf1
+  https://github.com/user-attachments/assets/84272176-c423-4674-83da-0a183a19ebb0
 
 - **Unity Simulation**: Below is a video of the cornea simulation in Unity, which shows how the haptic device interacts with the cornea in real-time, allowing users to palpate and feel the virtual model.
 
