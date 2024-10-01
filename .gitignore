@@ -1,9 +1,9 @@
 # Ignore Unity's Library folder and other temporary files
-/Library/
-/Temp/
-/Obj/
-/Logs/
-/MemoryCaptures/
+/Corneal Palpator with Touch X/Library/
+/Corneal Palpator with Touch X/Temp/
+/Corneal Palpator with Touch X/Obj/
+/Corneal Palpator with Touch X/Logs/
+/Corneal Palpator with Touch X/MemoryCaptures/
 *.csproj
 *.unityproj
 *.sln
