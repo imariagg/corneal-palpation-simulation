@@ -42,20 +42,19 @@ The **Cornea Excel.xlsx** file, which will be attached, contains data on the for
 
 ## Project Structure
 
-- `/Assets`: Contains all resources and scripts needed for the simulation in Unity.
-- `/Scripts`: The main scripts for simulating the cornea and its deformation.
+- `Corneal Palpator with Touch X/Assets`: Contains all resources and scripts needed for the simulation in Unity.
+- `Corneal Palpator with Touch X/Scripts`: The main scripts for simulating the cornea and its deformation.
     - `CubeSphere.cs`: Generates the deformable mesh of the cornea.
     - `MeshDeformer.cs`: Applies deformations according to the calculated elastic constant.
     - `MeshDeformerInput.cs`: Controls user interaction with the mesh, applying deformation force.
-- `/Ansys`: Files for the cornea model generated in ANSYS, along with the simulation results (mesh, displacements, etc.).
-- `/Docs`: Additional project documentation, including this README.
+- `Cornea Simulation in Ansys/Cornea_files`: Files for the cornea model generated in ANSYS, along with the simulation results (mesh, displacements, etc.).
 - **Cornea Excel.xlsx**: Excel file containing the force data from various points in the ANSYS simulation of the cornea, which is used to determine the appropriate constants for Unity.
 
 ## Installation and Usage
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/user/imariagg/corneal-palpation-simulation
+   git clone https://github.com/user/imariagg/corneal-palpation-simulation.git
    ```
 
 2. **Open in Unity**:
