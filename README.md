@@ -20,17 +20,17 @@ The project is also **MQTT** compatible for communication between applications, 
 
 - **ANSYS Simulation**: Below is a video of the cornea simulation performed in ANSYS, which demonstrates how the physics and deformation behavior of the cornea were modeled.
 
-  *[Insert ANSYS Simulation Video Here]*
+  https://github.com/user-attachments/assets/84272176-c423-4674-83da-0a183a19ebb0
 
 - **Unity Simulation**: Below is a video of the cornea simulation in Unity, which shows how the haptic device interacts with the cornea in real-time, allowing users to palpate and feel the virtual model.
 
-  *[Insert Unity Simulation Video Here]*
-
-### Simulation Data
-The **Cornea Excel.xlsx** file, which will be attached, contains data on the forces applied at various points during the cornea simulation in ANSYS. This data is crucial in determining which elastic constants to choose for the Unity simulation to ensure accurate cornea deformation modeling.
+  https://github.com/user-attachments/assets/fbc2bdf9-e7bb-41ef-b015-a223a6b00329
 
 ### Video Note
 The videos attached are demonstration videos, and the elastic constant \( K \) shown in the Unity video is not the real one, as it is a sample video to showcase the palpation of the mesh. However, the correct elastic constant \( K \) has been implemented in the full Unity project.
+
+### Simulation Data
+The **Cornea Excel.xlsx** file, which will be attached, contains data on the forces applied at various points during the cornea simulation in ANSYS. This data is crucial in determining which elastic constants to choose for the Unity simulation to ensure accurate cornea deformation modeling.
 
 ## System Requirements
 
