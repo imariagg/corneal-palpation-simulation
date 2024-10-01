@@ -55,7 +55,7 @@ The **Cornea Excel.xlsx** file, which will be attached, contains data on the for
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/user/cornea-project.git
+   git clone https://github.com/user/imariagg/corneal-palpation-simulation
    ```
 
 2. **Open in Unity**:
